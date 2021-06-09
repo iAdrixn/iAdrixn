@@ -2,7 +2,7 @@
 
 Hi there, I'm **lDqnteh** 👋
 
-• 🔭 I’m currently working on **Rose Service** (Development Team)
+• 🔭 I’m currently working on **Lune Development** (Development Team)
 
 • 🌱 I’m currently learning more about java
 
