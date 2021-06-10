@@ -17,20 +17,13 @@
 - 📫 How to reach me **$ lDqnteh#1172**
   
 <a href="https://github.com/lDqnteh">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lDqnteh&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="lDqnteh's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lDqnteh&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
 </a>
-
 <a href="https://github.com/lDqnteh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lDqnteh&layout=compact&theme=radical" alt="lDqnteh's langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lDqnteh&layout=compact&bg_color=-45,00add0,161ba7,000000&title_color=fff&text_color=fff" />
 </a>
+
   
 <br />
 <br />
 
-  
-<a href="https://github.com/lDqnteh/Essentials">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lDqnteh&repo=Essentials&theme=radical" />
-</a>
-
-  
