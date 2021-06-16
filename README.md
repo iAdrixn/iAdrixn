@@ -1,11 +1,11 @@
-### 👋, I'm lDqnteh
+### 👋, I'm iAdrixn
 
-<a href="https://twitter.com/lDqnteh">
-  <img align="left" alt="lDqnteh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/iAdrixn">
+  <img align="left" alt="iAdrixn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<a href="https://lunedev.dev/discord">
-  <img align="left" alt="lDqnteh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://discord.gg/lunedev">
+  <img align="left" alt="iAdrixn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently collaborate on [LuneDevelopment](https://github.com/LuneClub)
 
-- 📫 How to reach me **$ lDqnteh#1172**
+- 📫 How to reach me **$ iAdrixn#0001**
   
 <a href="https://github.com/lDqnteh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lDqnteh&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
